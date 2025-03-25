@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"description": "",
 	"name": "Blocked",
 	"rules": [
@@ -4911,8 +4910,6 @@
 	    "action": "deny",
 	    "direction": "outgoing",
 	    "priority": "regular",
-<<<<<<< HEAD
-=======
 	    "process": "/System/Library/PrivateFrameworks/GameCenterFoundation.framework/Versions/A/gamed",
 	    "owner": "any",
 	    "protocol": "any",
@@ -4921,7 +4918,6 @@
 	    "action": "deny",
 	    "direction": "outgoing",
 	    "priority": "regular",
->>>>>>> 861eca0 (updates)
 	    "process": "any",
 	    "owner": "any",
 	    "remote-domains": "ap.org",
@@ -14041,5 +14037,4 @@
       "direction": "any"
     }
   ]
->>>>>>> 50ecc88 (updates)
 }
