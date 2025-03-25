@@ -7397,6 +7397,24 @@
       "protocol": "any",
       "action": "deny",
       "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "varinode.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "internetbrands.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
     }
   ]
 }
