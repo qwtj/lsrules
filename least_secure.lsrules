@@ -667,28 +667,6 @@
       "action": "allow",
       "direction": "outgoing",
       "priority": "regular",
-      "process": "path.private/var/folders/*/CharliePacketTunnel",
-      "owner": "any",
-      "remote-domains": "adobess.com",
-      "ports": "443",
-      "protocol": "any",
-      "notes": "On Jun 14, 2022, CharliePacketTunnel tried to establish a connection to ss-prod-va6c2-notif-10.va6c2.adobess.com. The request was allowed via connection alert."
-    },
-    {
-      "action": "allow",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "path.private/var/folders/*/CharliePacketTunnel",
-      "owner": "any",
-      "remote-domains": "kaspersky-labs.com",
-      "ports": "443",
-      "protocol": "any",
-      "notes": "On Jun 14, 2022, CharliePacketTunnel tried to establish a connection to 30.ucp-ntfy.kaspersky-labs.com. The request was allowed via connection alert."
-    },
-    {
-      "action": "allow",
-      "direction": "outgoing",
-      "priority": "regular",
       "process": "/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd",
       "owner": "any",
       "remote-domains": "amazonaws.com",
