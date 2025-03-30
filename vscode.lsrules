@@ -6,7 +6,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "aka.ms",
       "ports": 443,
       "protocol": "any"
@@ -15,7 +15,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "amazonaws.com",
       "ports": 443,
       "protocol": "any"
@@ -24,7 +24,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "anaconda.com",
       "ports": 443,
       "protocol": "any"
@@ -33,7 +33,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "anaconda.org",
       "ports": 443,
       "protocol": "any"
@@ -42,7 +42,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "apphb.com",
       "ports": 443,
       "protocol": "any"
@@ -51,7 +51,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "azure.com",
       "ports": 443,
       "protocol": "any"
@@ -60,7 +60,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "cloudflare.com",
       "ports": 443,
       "protocol": "any"
@@ -69,7 +69,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "cloudfront.net",
       "ports": 443,
       "protocol": "any"
@@ -78,7 +78,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "conan.io",
       "ports": 443,
       "protocol": "any"
@@ -87,7 +87,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "e-dc-msedge.net",
       "ports": 443,
       "protocol": "any"
@@ -96,7 +96,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "e-msedge.net",
       "ports": 443,
       "protocol": "any"
@@ -105,7 +105,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "exp-tas.com",
       "ports": 443,
       "protocol": "any"
@@ -114,7 +114,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "fastly.net",
       "ports": 443,
       "protocol": "any"
@@ -123,7 +123,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "github.com",
       "ports": 443,
       "protocol": "any"
@@ -132,7 +132,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "github.io",
       "ports": 443,
       "protocol": "any"
@@ -141,7 +141,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "githubcopilot.com",
       "ports": 443,
       "protocol": "any"
@@ -150,7 +150,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "githubusercontent.com",
       "ports": 443,
       "protocol": "any"
@@ -159,7 +159,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "gnu.org",
       "ports": 443,
       "protocol": "any"
@@ -168,7 +168,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "go.dev",
       "ports": 443,
       "protocol": "any"
@@ -177,7 +177,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "golang.org",
       "ports": 443,
       "protocol": "any"
@@ -186,7 +186,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "googleapis.com",
       "ports": 443,
       "protocol": "any"
@@ -195,7 +195,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "gravatar.com",
       "ports": 443,
       "protocol": "any"
@@ -204,7 +204,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "jsdelivr.net",
       "ports": 443,
       "protocol": "any"
@@ -213,7 +213,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "lecun.com",
       "ports": 443,
       "protocol": "any"
@@ -222,7 +222,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "microsoft.com",
       "ports": 443,
       "protocol": "any"
@@ -231,7 +231,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "npmjs.org",
       "ports": 443,
       "protocol": "any"
@@ -240,7 +240,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "pypi.org",
       "ports": 443,
       "protocol": "any"
@@ -249,7 +249,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "schemastore.org",
       "ports": 443,
       "protocol": "any"
@@ -258,7 +258,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "shields.io",
       "ports": 443,
       "protocol": "any"
@@ -267,7 +267,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "sourceware.org",
       "ports": 443,
       "protocol": "any"
@@ -276,7 +276,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "t-msedge.net",
       "ports": 443,
       "protocol": "any"
@@ -285,7 +285,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "unpkg.com",
       "ports": 443,
       "protocol": "any"
@@ -294,7 +294,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "v0cdn.net",
       "ports": 443,
       "protocol": "any"
@@ -303,7 +303,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "visualstudio.com",
       "ports": 443,
       "protocol": "any"
@@ -312,7 +312,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "vsassets.io",
       "ports": 443,
       "protocol": "any"
@@ -321,7 +321,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "vscode-cdn.net",
       "ports": 443,
       "protocol": "any"
@@ -330,7 +330,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "vscode-unpkg.net",
       "ports": 443,
       "protocol": "any"
@@ -339,7 +339,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "yarnpkg.com",
       "ports": 443,
       "protocol": "any"
@@ -348,7 +348,7 @@
       "action": "allow",
       "direction": "out",
       "priority": "regular",
-      "process": "Applications/Visual Studio Code.app",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
       "remote-domains": "zlib.net",
       "ports": 443,
       "protocol": "any"
