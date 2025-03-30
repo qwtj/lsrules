@@ -352,6 +352,15 @@
       "remote-domains": "zlib.net",
       "ports": 443,
       "protocol": "any"
-    }
+    },
+    { 
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "/Applications/Visual Studio Code.app/Contents/MacOS/Electron",
+      "remote-domains": "vscode-cdn.net",
+      "ports": 443,
+      "protocol": "any"
+    } 
   ]
 }
