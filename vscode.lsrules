@@ -1,0 +1,357 @@
+{
+  "description": "",
+  "name": "VSCode",
+  "rules": [
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "aka.ms",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "amazonaws.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "anaconda.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "anaconda.org",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "apphb.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "azure.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "cloudflare.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "cloudfront.net",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "conan.io",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "e-dc-msedge.net",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "e-msedge.net",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "exp-tas.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "fastly.net",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "github.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "github.io",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "githubcopilot.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "githubusercontent.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "gnu.org",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "go.dev",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "golang.org",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "googleapis.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "gravatar.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "jsdelivr.net",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "lecun.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "microsoft.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "npmjs.org",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "pypi.org",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "schemastore.org",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "shields.io",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "sourceware.org",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "t-msedge.net",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "unpkg.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "v0cdn.net",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "visualstudio.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "vsassets.io",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "vscode-cdn.net",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "vscode-unpkg.net",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "yarnpkg.com",
+      "ports": 443,
+      "protocol": "any"
+    },
+    {
+      "action": "allow",
+      "direction": "out",
+      "priority": "regular",
+      "process": "Applications/Visual Studio Code.app",
+      "remote-domains": "zlib.net",
+      "ports": 443,
+      "protocol": "any"
+    }
+  ]
+}
