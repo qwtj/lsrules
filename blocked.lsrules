@@ -7407,6 +7407,15 @@
       "protocol": "any",
       "action": "deny",
       "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "247-inc.net",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
     }
   ]
 }
