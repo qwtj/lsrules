@@ -2962,15 +2962,6 @@
       "priority": "regular",
       "process": "any",
       "owner": "any",
-      "remote-domains": "linkedin.com",
-      "protocol": "any"
-    },
-    {
-      "action": "deny",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "any",
-      "owner": "any",
       "remote-domains": "linksmart.com",
       "protocol": "any"
     },
