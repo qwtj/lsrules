@@ -549,7 +549,7 @@
       "process": "any",
       "owner": "any",
       "remote-addresses": "69.173.144.0 - 69.173.159.255",
-      "notes": "Rubicon advertising"
+      "notes": "Rubicon advertising",
       "protocol": "any"
     },
     {
@@ -559,7 +559,7 @@
       "process": "any",
       "owner": "any",
       "remote-addresses": "74.119.116.0 - 74.119.119.255",
-      "protocol": "any"
+      "protocol": "any",
       "notes": "Criteo advertising"
     },
     {
