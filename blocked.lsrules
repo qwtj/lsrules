@@ -8606,6 +8606,16 @@
       "protocol": "any",
       "action": "deny",
       "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "azure.cn",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any",
+      "notes": "Block Microsoft Azure Communist Services in China to prevent data leakage and ensure compliance with local regulations."
     }
   ]
 }
