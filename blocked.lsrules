@@ -1126,15 +1126,6 @@
       "priority": "regular",
       "process": "any",
       "owner": "any",
-      "remote-domains": "adobedtm.com",
-      "protocol": "any"
-    },
-    {
-      "action": "deny",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "any",
-      "owner": "any",
       "remote-domains": "adperfect.com",
       "protocol": "any"
     },
