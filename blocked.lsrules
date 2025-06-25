@@ -4330,15 +4330,6 @@
       "priority": "regular",
       "process": "any",
       "owner": "any",
-      "remote-domains": "stripe.com",
-      "protocol": "any"
-    },
-    {
-      "action": "deny",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "any",
-      "owner": "any",
       "remote-domains": "stylitics.com",
       "protocol": "any"
     },
@@ -4556,33 +4547,6 @@
       "process": "any",
       "owner": "any",
       "remote-domains": "trustx.org",
-      "protocol": "any"
-    },
-    {
-      "action": "deny",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "any",
-      "owner": "any",
-      "remote-domains": "twimg.com",
-      "protocol": "any"
-    },
-    {
-      "action": "deny",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "any",
-      "owner": "any",
-      "remote-domains": "twitch.tv",
-      "protocol": "any"
-    },
-    {
-      "action": "deny",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "any",
-      "owner": "any",
-      "remote-domains": "twitter.com",
       "protocol": "any"
     },
     {
