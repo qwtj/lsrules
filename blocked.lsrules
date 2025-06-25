@@ -549,6 +549,7 @@
       "process": "any",
       "owner": "any",
       "remote-addresses": "69.173.144.0 - 69.173.159.255",
+      "notes": "Rubicon advertising"
       "protocol": "any"
     },
     {
@@ -559,6 +560,7 @@
       "owner": "any",
       "remote-addresses": "74.119.116.0 - 74.119.119.255",
       "protocol": "any"
+      "notes": "Criteo advertising"
     },
     {
       "action": "deny",
@@ -801,15 +803,6 @@
       "process": "any",
       "owner": "me",
       "remote-domains": "1rx.io",
-      "protocol": "any"
-    },
-    {
-      "action": "deny",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "any",
-      "owner": "me",
-      "remote-domains": "420magazine.com",
       "protocol": "any"
     },
     {
